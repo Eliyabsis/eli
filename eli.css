@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-size: larger;
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    color: whitesmoke;
+}
+p {
+ font-size: 30px;
+ color: whitesmoke;
+}
+#message-el{
+    font-style: italic;
+    
+}
+button {
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 12px;
+}
